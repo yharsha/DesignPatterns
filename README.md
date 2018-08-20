@@ -10,3 +10,7 @@ Resources:
 3.https://www.dofactory.com/net/design-patterns
 
 4.https://refactoring.guru/design-patterns/factory-method
+
+overview with code: Notes
+5.https://www.hackerearth.com/practice/notes/design-patterns-1/
+
