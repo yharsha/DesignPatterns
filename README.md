@@ -14,3 +14,8 @@ Resources:
 overview with code: Notes
 5.https://www.hackerearth.com/practice/notes/design-patterns-1/
 
+PluralSight Design patterns 
+
+https://app.pluralsight.com/paths/skills/design-patterns-in-java
+
+
